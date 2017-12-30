@@ -1,0 +1,9 @@
+D:\Hemel\Lindon\Section2_Exam\Section2_Exam\bin\Debug\Section2_Exam.exe.config
+D:\Hemel\Lindon\Section2_Exam\Section2_Exam\bin\Debug\Section2_Exam.exe
+D:\Hemel\Lindon\Section2_Exam\Section2_Exam\bin\Debug\Section2_Exam.pdb
+D:\Hemel\Lindon\Section2_Exam\Section2_Exam\obj\Debug\Section2_Exam.csprojResolveAssemblyReference.cache
+D:\Hemel\Lindon\Section2_Exam\Section2_Exam\obj\Debug\Section2_Exam.Form1.resources
+D:\Hemel\Lindon\Section2_Exam\Section2_Exam\obj\Debug\Section2_Exam.Properties.Resources.resources
+D:\Hemel\Lindon\Section2_Exam\Section2_Exam\obj\Debug\Section2_Exam.csproj.GenerateResource.Cache
+D:\Hemel\Lindon\Section2_Exam\Section2_Exam\obj\Debug\Section2_Exam.exe
+D:\Hemel\Lindon\Section2_Exam\Section2_Exam\obj\Debug\Section2_Exam.pdb
